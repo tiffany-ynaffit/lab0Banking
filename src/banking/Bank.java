@@ -7,7 +7,7 @@ package banking;
 
 /**
  *
- * @author badi
+ * @author ken
  */
 public interface Bank {
     
